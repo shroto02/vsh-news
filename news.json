@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-23T01:37:37Z",
+ "updated": "2026-11-23T12:18:21Z",
  "items": [
+  {
+   "faith": "hindu",
+   "title": "Ram Temple theft : Congress questions 21 - day delay in FIR , alleges senior trust officials shielded",
+   "summary": "",
+   "source": "tribuneindia.com",
+   "url": "https://www.tribuneindia.com/news/india/ram-temple-theft-congress-questions-21-day-delay-in-fir-alleges-senior-trust-officials-shielded/",
+   "ts": "2026-11-22T22:30:00Z"
+  },
   {
    "faith": "sikh",
    "title": "Indian Diaspora Hosts Langar @ Times Square To Mark Guru Nanak Dev Ji 557th Birth Anniversary",
@@ -8,6 +16,22 @@
    "source": "newsindiatimes.com",
    "url": "https://newsindiatimes.com/indian-diaspora-hosts-langar-times-square-to-mark-guru-nanak-dev-jis-557th-birth-anniversary/",
    "ts": "2026-11-22T22:30:00Z"
+  },
+  {
+   "faith": "hindu",
+   "title": "Kolanupaka Someshwara Swamy Temple Draws Devotees During Karthika Masam",
+   "summary": "",
+   "source": "deccanchronicle.com",
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/kolanupaka-someshwara-swamy-temple-draws-devotees-during-karthika-masam-2007000",
+   "ts": "2026-11-22T21:30:00Z"
+  },
+  {
+   "faith": "hindu",
+   "title": "Deepinder Goyal big brainwave : Temple faces medical , regulatory hurdles",
+   "summary": "",
+   "source": "business-standard.com",
+   "url": "https://www.business-standard.com/companies/people/deepinder-goyal-s-big-brainwave-temple-faces-medical-regulatory-hurdles-126112200799_1.html",
+   "ts": "2026-11-22T20:30:00Z"
   },
   {
    "faith": "hindu",
@@ -26,7 +50,7 @@
    "ts": "2026-11-22T10:30:00Z"
   },
   {
-   "faith": "sikh",
+   "faith": "hindu",
    "title": "1 , 822 Sikh pilgrims leave for Pakistan gurdwaras to mark Guru Nanak Dev Prakash Parv",
    "summary": "",
    "source": "ianslive.in",
@@ -66,14 +90,6 @@
    "ts": "2026-11-21T20:30:00Z"
   },
   {
-   "faith": "sikh",
-   "title": "Man gets 19½ years in prison for plot to kill Sikh separatist leader in New York",
-   "summary": "",
-   "source": "broomfieldenterprise.com",
-   "url": "https://www.broomfieldenterprise.com/2026/11/20/india-sikh-assassination-plot/",
-   "ts": "2026-11-21T16:30:00Z"
-  },
-  {
    "faith": "hindu",
    "title": "MP CM Mohan Yadav offers prayers at Ram Temple in Ayodhya on Dev Uthani Ekadashi",
    "summary": "",
@@ -83,11 +99,11 @@
   },
   {
    "faith": "sikh",
-   "title": "Langar at New York Times Square : Indian diaspora marks Guru Nanak Dev Ji 557th birth anniversary",
+   "title": "Man gets 19½ years in prison for plot to kill Sikh separatist leader in New York",
    "summary": "",
-   "source": "news.webindia123.com",
-   "url": "https://news.webindia123.com/news/Articles/World/20261121/4522758.html",
-   "ts": "2026-11-21T13:30:00Z"
+   "source": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/11/20/india-sikh-assassination-plot/",
+   "ts": "2026-11-21T16:30:00Z"
   },
   {
    "faith": "hindu",
@@ -95,6 +111,14 @@
    "summary": "",
    "source": "prokerala.com",
    "url": "https://www.prokerala.com/news/articles/a1839526.html",
+   "ts": "2026-11-21T13:30:00Z"
+  },
+  {
+   "faith": "sikh",
+   "title": "Langar at New York Times Square : Indian diaspora marks Guru Nanak Dev Ji 557th birth anniversary",
+   "summary": "",
+   "source": "news.webindia123.com",
+   "url": "https://news.webindia123.com/news/Articles/World/20261121/4522758.html",
    "ts": "2026-11-21T13:30:00Z"
   },
   {
@@ -264,30 +288,6 @@
    "source": "niagarafallsreview.ca",
    "url": "https://www.niagarafallsreview.ca/news/world/saris-sequins-and-drag-queens-inside-a-queer-diwali-ball/article_67243c84-97a7-5085-9901-4e1624332d63.html",
    "ts": "2026-11-19T23:30:00Z"
-  },
-  {
-   "faith": "hindu",
-   "title": "Accused terrorist charged in NYC temple plot gripes about jailhouse fish diet : He famished",
-   "summary": "",
-   "source": "nypost.com",
-   "url": "https://nypost.com/2026/11/19/us-news/accused-terrorist-charged-in-nyc-temple-plot-gripes-about-jailhouse-fish-diet-hes-famished/",
-   "ts": "2026-11-19T23:30:00Z"
-  },
-  {
-   "faith": "hindu",
-   "title": "Mexico Catholic street DJs turn annual pilgrimage into a party",
-   "summary": "",
-   "source": "cruxnow.com",
-   "url": "https://cruxnow.com/church-in-the-americas/2026/11/mexicos-catholic-street-djs-turn-annual-pilgrimage-into-a-party/",
-   "ts": "2026-11-19T17:15:00Z"
-  },
-  {
-   "faith": "hindu",
-   "title": "The Hindu Morning Digest : November 18 , 2026",
-   "summary": "",
-   "source": "thehindu.com",
-   "url": "https://www.thehindu.com/news/morning-digest-november-18-2026/article71714311.ece",
-   "ts": "2026-11-18T01:15:00Z"
   }
  ]
 }
