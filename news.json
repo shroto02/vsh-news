@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-22T19:30:17Z",
+ "updated": "2026-11-23T01:37:37Z",
  "items": [
+  {
+   "faith": "sikh",
+   "title": "Indian Diaspora Hosts Langar @ Times Square To Mark Guru Nanak Dev Ji 557th Birth Anniversary",
+   "summary": "",
+   "source": "newsindiatimes.com",
+   "url": "https://newsindiatimes.com/indian-diaspora-hosts-langar-times-square-to-mark-guru-nanak-dev-jis-557th-birth-anniversary/",
+   "ts": "2026-11-22T22:30:00Z"
+  },
   {
    "faith": "hindu",
    "title": "Why was this student from Class 5 on the Mumbai streets during Diwali ? Meet Akshat Sorap , who raised ₹9 , 978 for stray dogs",
@@ -18,7 +26,7 @@
    "ts": "2026-11-22T10:30:00Z"
   },
   {
-   "faith": "hindu",
+   "faith": "sikh",
    "title": "1 , 822 Sikh pilgrims leave for Pakistan gurdwaras to mark Guru Nanak Dev Prakash Parv",
    "summary": "",
    "source": "ianslive.in",
@@ -58,14 +66,6 @@
    "ts": "2026-11-21T20:30:00Z"
   },
   {
-   "faith": "hindu",
-   "title": "MP CM Mohan Yadav offers prayers at Ram Temple in Ayodhya on Dev Uthani Ekadashi",
-   "summary": "",
-   "source": "prokerala.com",
-   "url": "https://www.prokerala.com/news/articles/a1839594.html",
-   "ts": "2026-11-21T16:30:00Z"
-  },
-  {
    "faith": "sikh",
    "title": "Man gets 19½ years in prison for plot to kill Sikh separatist leader in New York",
    "summary": "",
@@ -75,11 +75,11 @@
   },
   {
    "faith": "hindu",
-   "title": "TN govt consulting legal experts on SC Thiruparankundram lamp - lighting order : Minister",
+   "title": "MP CM Mohan Yadav offers prayers at Ram Temple in Ayodhya on Dev Uthani Ekadashi",
    "summary": "",
    "source": "prokerala.com",
-   "url": "https://www.prokerala.com/news/articles/a1839526.html",
-   "ts": "2026-11-21T13:30:00Z"
+   "url": "https://www.prokerala.com/news/articles/a1839594.html",
+   "ts": "2026-11-21T16:30:00Z"
   },
   {
    "faith": "sikh",
@@ -91,11 +91,11 @@
   },
   {
    "faith": "hindu",
-   "title": "Temple continues Fulbright tradition with 2026 – 2027 cohort",
+   "title": "TN govt consulting legal experts on SC Thiruparankundram lamp - lighting order : Minister",
    "summary": "",
-   "source": "now.temple.edu",
-   "url": "https://now.temple.edu/news/2026-11-20/temple-continues-fulbright-tradition-2026-2027-cohort",
-   "ts": "2026-11-21T00:30:00Z"
+   "source": "prokerala.com",
+   "url": "https://www.prokerala.com/news/articles/a1839526.html",
+   "ts": "2026-11-21T13:30:00Z"
   },
   {
    "faith": "sikh",
@@ -107,11 +107,11 @@
   },
   {
    "faith": "hindu",
-   "title": "Altrusa International of Temple celebrates 40 years of Taste of the Holidays",
+   "title": "Temple continues Fulbright tradition with 2026 – 2027 cohort",
    "summary": "",
-   "source": "kxxv.com",
-   "url": "https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/temple/altrusa-international-of-temple-celebrates-40-years-of-taste-of-the-holidays",
-   "ts": "2026-11-20T21:45:00Z"
+   "source": "now.temple.edu",
+   "url": "https://now.temple.edu/news/2026-11-20/temple-continues-fulbright-tradition-2026-2027-cohort",
+   "ts": "2026-11-21T00:30:00Z"
   },
   {
    "faith": "sikh",
@@ -120,6 +120,22 @@
    "source": "dominicanrepublicpost.com",
    "url": "https://dominicanrepublicpost.com/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot/",
    "ts": "2026-11-20T21:45:00Z"
+  },
+  {
+   "faith": "hindu",
+   "title": "Altrusa International of Temple celebrates 40 years of Taste of the Holidays",
+   "summary": "",
+   "source": "kxxv.com",
+   "url": "https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/temple/altrusa-international-of-temple-celebrates-40-years-of-taste-of-the-holidays",
+   "ts": "2026-11-20T21:45:00Z"
+  },
+  {
+   "faith": "sikh",
+   "title": "Sikh grandmother deportation to India inspires US bill to protect long - term immigrants",
+   "summary": "",
+   "source": "timesofindia.indiatimes.com",
+   "url": "https://timesofindia.indiatimes.com/india/sikh-grandmothers-deportation-to-india-inspires-us-bill-to-protect-long-term-immigrants/articleshow/136015174.cms",
+   "ts": "2026-11-20T06:45:00Z"
   },
   {
    "faith": "hindu",
@@ -143,14 +159,6 @@
    "summary": "",
    "source": "rozanaspokesman.com",
    "url": "https://www.rozanaspokesman.com/entertainment/bollywood/201126/gaddi-community-films-echoes-of-the-herd-and-hunters-moon.html",
-   "ts": "2026-11-20T06:45:00Z"
-  },
-  {
-   "faith": "sikh",
-   "title": "Sikh grandmother deportation to India inspires US bill to protect long - term immigrants",
-   "summary": "",
-   "source": "timesofindia.indiatimes.com",
-   "url": "https://timesofindia.indiatimes.com/india/sikh-grandmothers-deportation-to-india-inspires-us-bill-to-protect-long-term-immigrants/articleshow/136015174.cms",
    "ts": "2026-11-20T06:45:00Z"
   },
   {
