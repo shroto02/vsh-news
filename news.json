@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:04:26Z",
+ "updated": "2026-11-27T21:08:51Z",
  "items": [
   {
    "faith": "hindu",
@@ -98,14 +98,6 @@
    "ts": "2026-11-26T06:15:00Z"
   },
   {
-   "faith": "hindu",
-   "title": "Sabari Portal Offers Round - The - Clock Support To Sabarimala Pilgrims",
-   "summary": "",
-   "source": "deccanchronicle.com",
-   "url": "https://www.deccanchronicle.com/southern-states/kerala/sabarimala-portal-resolves-452-of-458-pilgrim-complaints-2008092",
-   "ts": "2026-11-26T05:45:00Z"
-  },
-  {
    "faith": "sikh",
    "title": "Who is Sahiba Bali ? Her selfie with actor Arjun Kapoor on Gurpurab goes viral , sparking dating rumours again",
    "summary": "",
@@ -115,6 +107,14 @@
   },
   {
    "faith": "hindu",
+   "title": "Sabari Portal Offers Round - The - Clock Support To Sabarimala Pilgrims",
+   "summary": "",
+   "source": "deccanchronicle.com",
+   "url": "https://www.deccanchronicle.com/southern-states/kerala/sabarimala-portal-resolves-452-of-458-pilgrim-complaints-2008092",
+   "ts": "2026-11-26T05:45:00Z"
+  },
+  {
+   "faith": "sikh",
    "title": "Mona Singh recalls making hundreds of rotis at Golden Temple during Kohrra Season 2 shoot : These visits … have given me immense peace 2 : Bollywood News",
    "summary": "",
    "source": "bollywoodhungama.com",
@@ -130,19 +130,19 @@
    "ts": "2026-11-26T04:30:00Z"
   },
   {
-   "faith": "hindu",
-   "title": "Cambodia Calls for International Solidarity to Restore Damaged Preah Vihear Temple",
-   "summary": "",
-   "source": "akp.gov.kh",
-   "url": "https://www.akp.gov.kh/post/detail/387882",
-   "ts": "2026-11-26T04:15:00Z"
-  },
-  {
    "faith": "sikh",
    "title": "Gurpurab Radiothon raises over $581 , 013 and counting to strengthen emergency care at Surrey Memorial Hospital",
    "summary": "",
    "source": "voiceonline.com",
    "url": "https://voiceonline.com/gurpurab-radiothon-raises-over-581013-and-counting-to-strengthen-emergency-care-at-surrey-memorial-hospital/",
+   "ts": "2026-11-26T04:15:00Z"
+  },
+  {
+   "faith": "hindu",
+   "title": "Cambodia Calls for International Solidarity to Restore Damaged Preah Vihear Temple",
+   "summary": "",
+   "source": "akp.gov.kh",
+   "url": "https://www.akp.gov.kh/post/detail/387882",
    "ts": "2026-11-26T04:15:00Z"
   },
   {
@@ -399,14 +399,6 @@
    "summary": "",
    "source": "prokerala.com",
    "url": "https://www.prokerala.com/news/articles/a1840365.html",
-   "ts": "2026-11-24T04:45:00Z"
-  },
-  {
-   "faith": "sikh",
-   "title": "Domestic stock markets closed for Guru Nanak Jayanti ; MCX to resume trading in evening session",
-   "summary": "",
-   "source": "news.webindia123.com",
-   "url": "https://news.webindia123.com/news/Articles/Business/20261124/4523701.html",
    "ts": "2026-11-24T04:45:00Z"
   }
  ]
